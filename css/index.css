@@ -1,5 +1,6 @@
 body {
-    font-family: "Helvetica"
+    font-family: "Helvetica";
+    background-color: "#fff0f2"; /* light pink! */
 }
 
 h1 {
