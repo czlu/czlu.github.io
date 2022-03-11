@@ -1,10 +1,7 @@
 body {
     font-family: "Helvetica"; /* best font */
     background-color: rgb(253, 222, 222); /* light pink */
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px;
 }
 
 h1 {
