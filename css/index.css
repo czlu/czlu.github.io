@@ -10,7 +10,7 @@ h1 {
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: rgb(199, 99, 99);
+    background-color: #e29296;
     overflow: hidden;
 }
   
@@ -31,7 +31,7 @@ h1 {
 }
   
 /* Add a color to the active/current link */
-.topnav a.active {
-    background-color: #e29296;
+.topnav a:active {
+    background-color: rgb(199, 99, 99);
     color: white;
 }
