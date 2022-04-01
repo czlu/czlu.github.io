@@ -19,7 +19,7 @@ h1 {
     float: left;
     color: rgb(253, 222, 222);
     text-align: center;
-    padding: 14px, 16px;
+    padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -27,7 +27,7 @@ h1 {
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #ad686c;
-    color: rgb(255, 255, 255);
+    color: rgb(253, 222, 222);
 }
   
 /* Add a color to the active/current link */
