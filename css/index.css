@@ -2,6 +2,7 @@ body {
     font-family: "Helvetica"; /* best font */
     background-color: rgb(253, 222, 222); /* light pink */
     padding: 50px;
+    cursor: url("http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/891da8b507fd783.png"), auto;
 }
 
 h1 {
@@ -35,8 +36,6 @@ h1 {
     background-color: rgb(199, 99, 99);
     color: white;
 }
-
-abbr { cursor: url("http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/891da8b507fd783.png"), auto; }
 
 .image-container {
     background-image: url("https://i.pinimg.com/736x/47/8a/3c/478a3c4230ae6527267a9784a6b73dd6.jpg"); /* The image used - important! */
