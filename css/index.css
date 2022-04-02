@@ -42,6 +42,7 @@ h1 {
     background-size: cover;
     position: relative; /* Needed to position the cutout text in the middle of the image */
     height: 300px; /* Some height */
+    padding: 0px;
   }
   
   .text {
