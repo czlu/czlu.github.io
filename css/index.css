@@ -52,7 +52,7 @@ h1 {
     font-size: 8vw; /* Responsive font size */
     font-weight: bold;
     font-family: Helvetica;
-    margin: 0 auto; /* Center the text container */
+    margin: auto auto; /* Center the text container */
     padding: 10px;
     width: 65%;
     text-align: center; /* Center text */
