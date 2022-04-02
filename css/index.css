@@ -41,12 +41,12 @@ h1 {
     background-image: url("https://i.pinimg.com/736x/47/8a/3c/478a3c4230ae6527267a9784a6b73dd6.jpg"); /* The image used - important! */
     background-size: cover;
     position: relative; /* Needed to position the cutout text in the middle of the image */
-    height: 300px; /* Some height */
+    height: 200px; /* Some height */
     padding: 0px;
   }
   
   .text {
-    background-color: white;
+    background-color: rgb(253, 222, 222);
     color: black;
     font-size: 10vw; /* Responsive font size */
     font-weight: bold;
