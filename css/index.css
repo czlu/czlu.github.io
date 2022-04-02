@@ -60,3 +60,8 @@ h1 {
     transform: translate(-50%, -50%); /* Position text in the middle */
     mix-blend-mode: screen; /* This makes the cutout text possible */
   }
+
+  #home {
+    font-size: 10px;
+    color: rgb(253, 222, 222);
+  }
