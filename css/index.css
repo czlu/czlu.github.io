@@ -115,3 +115,8 @@ link {
 #bigspace {
     font-size: 100px;
 }
+
+img {
+    width: 50%;
+    text-align: center;
+}
