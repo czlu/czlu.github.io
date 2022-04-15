@@ -43,7 +43,7 @@ h1 {
 }
 
 .image-container {
-    background-image: url("https://www.wallpapertip.com/wmimgs/0-3788_simple-light-blue-background.jpg"); /* The image used - important! */
+    background-image: url("https://i.pinimg.com/originals/b6/0f/2e/b60f2eda687c9d387bd1d99dbfc06613.jpg"); /* The image used - important! */
     background-size: cover;
     position: relative; /* Needed to position the cutout text in the middle of the image */
     height: 200px; /* Some height */
