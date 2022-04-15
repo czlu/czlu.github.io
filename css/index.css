@@ -47,6 +47,9 @@ h1 {
     position: relative; /* Needed to position the cutout text in the middle of the image */
     height: 200px; /* Some height */
     padding: 0px;
+    width: 100%;
+    left: 0;
+    top: 0;
 }
   
 .text {
