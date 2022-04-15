@@ -44,7 +44,7 @@ h1 {
 }
 
 .image-container {
-    background-image: url("https://64.media.tumblr.com/31931594047415eeb417a1f5bcb83820/49f0b894db395d00-de/s1280x1920/673889f8823965adf166a873a9dde9a4f2f8260f.jpg"); /* The image used - important! */
+    background-image: url("https://i.pinimg.com/736x/0a/c9/31/0ac9311678b394e06426f3a647e1a925--ocean-sunset-linkedin-background.jpg"); /* The image used - important! */
     background-size: cover;
     position: relative; /* Needed to position the cutout text in the middle of the image */
     height: 200px; /* Some height */
