@@ -43,7 +43,7 @@ h1 {
 }
 
 .image-container {
-    background-image: url("https://www.ppt-backgrounds.net/thumbs/simple-geometric-background-backgrounds.jpg"); /* The image used - important! */
+    background-image: url("https://www.wallpapertip.com/wmimgs/0-3788_simple-light-blue-background.jpg"); /* The image used - important! */
     background-size: cover;
     position: relative; /* Needed to position the cutout text in the middle of the image */
     height: 200px; /* Some height */
