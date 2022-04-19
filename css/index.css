@@ -65,8 +65,8 @@ p {
 }
   
 .text {
-    background-color: rgb(255, 255, 255);
-    color: black;
+    background-color: rgb(253, 222, 222);
+    color: rgb(2, 33, 33);
     font-size: 8vw; /* Responsive font size */
     font-weight: bold;
     font-family: "Franklin Gothic", "Helvetica";
