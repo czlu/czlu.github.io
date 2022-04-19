@@ -11,6 +11,14 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    padding: 50px;
+}
+
+p {
+    padding: 50px;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #e29296;
