@@ -1,5 +1,5 @@
 body {
-    font-family: "Helvetica"; /* best font */
+    font-family: "Grafton", "Helvetica"; 
     background-color: rgb(253, 222, 222); /* light pink */
     padding: 50px;
     cursor: url("https://i.imgur.com/WXqc978.png"), auto;
@@ -59,7 +59,7 @@ h1 {
     color: black;
     font-size: 8vw; /* Responsive font size */
     font-weight: bold;
-    font-family: Helvetica;
+    font-family: "Grafton", "Helvetica";
     /*margin: 10px; /* Center the text container */
     padding: 10px;
     width: 65%;
