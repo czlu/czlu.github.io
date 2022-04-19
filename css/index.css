@@ -124,8 +124,8 @@ link {
     bottom: 0;
     width: 100%;
     height: 40px;
-    background-color: rgb(255, 255, 255);
-    color: #533032;
+    background-color: #533032;
+    color: rgb(253, 222, 222);
     text-align: center;
 }
 
