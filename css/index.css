@@ -14,11 +14,15 @@ h1 {
 h2 {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 p {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 /* Add a black background color to the top navigation */
