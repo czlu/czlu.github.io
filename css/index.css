@@ -12,11 +12,13 @@ h1 {
 }
 
 h2 {
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 p {
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 /* Add a black background color to the top navigation */
