@@ -1,5 +1,5 @@
 body {
-    font-family: "Panamera," "Franklin Gothic", "Helvetica"; 
+    font-family: 'Panamera', 'Franklin Gothic', Helvetica, sans-serif; 
     background-color: rgb(253, 222, 222); /* light pink */
     /* padding: 50px; */
     cursor: url("https://i.imgur.com/mZ59Elw.png"), auto;
