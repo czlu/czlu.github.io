@@ -1,5 +1,10 @@
+@font-face {
+    font-family: Coolvetica;
+    src: url('coolvetica rg.otf');
+}
+
 body {
-    font-family: Verdana, 'Panamera', 'Franklin Gothic', Helvetica, sans-serif; 
+    font-family: 'Coolvetica', Verdana, 'Panamera', 'Franklin Gothic', Helvetica, sans-serif; 
     background-color: rgb(253, 222, 222); /* light pink */
     /* padding: 50px; */
     cursor: url("https://i.imgur.com/mZ59Elw.png"), auto;
@@ -9,7 +14,7 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Panamera', 'Franklin Gothic', Helvetica, sans-serif;
+    font-family: 'Coolvetica', Verdana, Helvetica, sans-serif;
 }
 
 h2 {
@@ -17,7 +22,7 @@ h2 {
     padding-right: 50px;
     padding-top: 0;
     padding-bottom: 0;
-    font-family: 'Geneva', Verdana, 'Panamera', 'Franklin Gothic', Helvetica, sans-serif;
+    font-family: 'Coolvetica', Verdana, Helvetica, sans-serif;
 }
 
 p {
@@ -25,7 +30,7 @@ p {
     padding-right: 50px;
     padding-top: 0;
     padding-bottom: 0;
-    font-family: 'Geneva', 'Sani Trixie Sans', 'Panamera', 'Franklin Gothic', Helvetica, sans-serif;
+    font-family: 'Coolvetica', Verdana, Helvetica, sans-serif;
 }
 
 /* Add a black background color to the top navigation */
