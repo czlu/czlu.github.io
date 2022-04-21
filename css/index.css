@@ -104,7 +104,7 @@ p {
     max-width: 300px;
     margin: auto;
     text-align: center;
-    background-color: rgb(250, 226, 226);;
+    background-color: rgb(249, 235, 235);;
     border-color: white;
     border-width: 60px;
     border-radius: 12px;
@@ -135,7 +135,7 @@ link {
     background-color: #533032;
     color: rgb(253, 222, 222);
     text-align: center;
-    border-width: 15px;
+    border-bottom: 15px;
 }
 
 #bigspace {
