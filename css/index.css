@@ -146,8 +146,7 @@ link {
     background-color: #533032;
     color: rgb(253, 222, 222);
     text-align: center;
-    border-color:#533032;
-    border-bottom-width: 15px;
+    padding-bottom: 10px
 }
 
 #bigspace {
