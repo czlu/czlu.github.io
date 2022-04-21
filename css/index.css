@@ -115,6 +115,18 @@ p {
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
     margin-left: 75px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: rgb(249, 235, 235);;
+    border-radius: 12px;
+    padding: 50px, 25px;
+}
+
+.card2 {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin-left: 0px;
+    margin-right: 50px;
     text-align: center;
     background-color: rgb(249, 235, 235);;
     border-radius: 12px;
