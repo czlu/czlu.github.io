@@ -117,12 +117,8 @@ p {
     margin-left: 75px;
     text-align: center;
     background-color: rgb(249, 235, 235);;
-    border-color: white;
-    border-top-width: 60px;
-    border-bottom-width: 60px;
-    border-left-width: 15px;
-    border-right-width: 15px;
     border-radius: 12px;
+    padding: 50px, 25px;
 }
   
 .title {
