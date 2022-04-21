@@ -106,7 +106,8 @@ p {
     text-align: center;
     background-color: rgb(249, 235, 235);;
     border-color: white;
-    border-width: 60px;
+    border-top-width: 60px;
+    border-bottom-width: 60px;
     border-radius: 12px;
 }
   
