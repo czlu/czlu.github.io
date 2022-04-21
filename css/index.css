@@ -120,6 +120,8 @@ p {
     border-color: white;
     border-top-width: 60px;
     border-bottom-width: 60px;
+    border-left-width: 15px;
+    border-right-width: 15px;
     border-radius: 12px;
 }
   
