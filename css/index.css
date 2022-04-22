@@ -170,3 +170,12 @@ img {
     max-height: 100px;
     text-align: center;
 }
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+}
