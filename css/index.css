@@ -20,16 +20,15 @@ h1 {
 h2 {
     padding-left: 75px;
     padding-right: 75px;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
     font-family: 'Coolvetica', Verdana, Helvetica, sans-serif;
 }
 
 p {
     padding-left: 75px;
     padding-right: 75px;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 0px;
     font-family: 'Coolvetica', Verdana, Helvetica, sans-serif;
 }
 
@@ -162,6 +161,7 @@ link {
     padding-bottom: 0px;
     padding-top: 0px;
     margin-top: 15px;
+    border-width: 0px; 
 }
 
 #bigspace {
