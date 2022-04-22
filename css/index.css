@@ -159,7 +159,7 @@ link {
     color: rgb(253, 222, 222);
     text-align: center;
     padding-bottom: 5px;
-    padding-top: 5px;
+    padding-top: 0px;
 }
 
 #bigspace {
@@ -179,4 +179,8 @@ img {
 	justify-content: flex-start;
 	align-items: stretch;
 	align-content: stretch;
+}
+
+#card {
+    padding: 15px;
 }
