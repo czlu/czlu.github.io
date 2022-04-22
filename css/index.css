@@ -184,4 +184,6 @@ img {
 .cards {
     padding-left: 15px;
     padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
