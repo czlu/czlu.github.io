@@ -181,6 +181,6 @@ img {
 	align-content: stretch;
 }
 
-#card {
+.cards {
     padding: 15px;
 }
